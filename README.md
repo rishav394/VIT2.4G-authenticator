@@ -12,3 +12,4 @@ Sorry I could not compile the rb file to exe because it requires me to run ocra 
 * Adding the proxy server
 * Minimizing to tray and run in background
 * Hibernate when not connected to VIT2.4G
+* Automatically shuts dpwn the proxy and logs the user in using the last knows credentials.
